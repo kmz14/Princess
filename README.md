@@ -1,2 +1,2 @@
 # princess
-This is a Quiz to tell you which Disney Princess you are.
+This is a Quiz to tell you which Disney Princess you are.I justed Labels to ask different questions, swithces to answer the questions and a slider to ask one additional qquestion. Depending on how to answered the questions and which traits you picked for yourself you were given a score. That score then computed into which princess you were. I also used views the group sectins of the content together and then hid them and showed them based on the buttons you picked to give the illusion that you were going to a new page when you veiw staying on the same view controller the entire time.
